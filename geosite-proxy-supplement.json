@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "googleapis.com",
+        "gstatic.com",
+        "github.com",
+        "githubusercontent.com",
+        "gitlab.com",
+        "openai.com",
+        "chatgpt.com",
+        "anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "twitter.com",
+        "x.com",
+        "facebook.com",
+        "instagram.com",
+        "youtube.com",
+        "ytimg.com",
+        "reddit.com",
+        "discord.com",
+        "apple.com",
+        "icloud.com",
+        "microsoft.com",
+        "cloudflare.com"
+      ],
+      "domain_keyword": [
+        "chatgpt",
+        "openai"
+      ]
+    }
+  ]
+}
