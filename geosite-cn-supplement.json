@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "baidu.com",
+        "alipay.com",
+        "taobao.com",
+        "tencent.com",
+        "qq.com",
+        "weixin.com",
+        "wechat.com",
+        "douyin.com",
+        "bilibili.com",
+        "jd.com",
+        "youku.com",
+        "meituan.com",
+        "novixlink.com",
+        "lianlianpay.com",
+        "localhost.tiangolo.com",
+        "cn"
+      ]
+    }
+  ]
+}
